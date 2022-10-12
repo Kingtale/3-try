@@ -1,0 +1,24 @@
+.small-box{
+    padding: 50px;
+    background-color: darkorange;
+    border: 0;
+    box-sizing: content-box;
+    width: 50px;
+    margin-left: 10em;
+    -webkit-text-fill-color: white
+       
+}
+.nav{
+    border: 0;
+    background-color: lightslategray;   
+}
+.container{
+    text-align: right;
+}
+.big-box{
+    padding: 100px;
+    border: 0;
+    box-sizing: content-box;
+    background-color: brown;
+}
+
